@@ -1,0 +1,3 @@
+.collapsed-menu-item, .collapsed-menu-item:focus, .collapsed-menu-item:hover, .collapsed-menu-item::after {
+    background-color: transparent !important;
+}
